@@ -17,19 +17,18 @@ https://kishinskiy.github.io/UberTemplate/
 
 примеры кода можно посмотреть на github:
 
-https://github.com/Kishinskiy
-https://github.com/Kishinskiy/Django-PasswordGenerator
-https://github.com/Kishinskiy/Portfolio
-https://github.com/Kishinskiy/sort_by_folder
-https://github.com/Kishinskiy/Django-PasswordGenerator
-https://github.com/Kishinskiy/hh-parser
-https://github.com/Kishinskiy/JCleaner]
-https://github.com/Kishinskiy/PythonBackupSystem
+- https://github.com/Kishinskiy
+- https://github.com/Kishinskiy/Django-PasswordGenerator
+- https://github.com/Kishinskiy/Portfolio
+- https://github.com/Kishinskiy/sort_by_folder
+- https://github.com/Kishinskiy/Django-PasswordGenerator
+- https://github.com/Kishinskiy/hh-parser
+- https://github.com/Kishinskiy/JCleaner
+- https://github.com/Kishinskiy/PythonBackupSystem
 
 Чуть-чуть знаю Swift, Unity, UnrealEngin,есть и небольшой опыт программирования под Android.
 
-Сейчас активно ищу вакансии разработчика. 
-
+Сейчас активно ищу вакансии разработчика.
 
 ### Опыт
 
@@ -39,6 +38,7 @@ https://github.com/Kishinskiy/PythonBackupSystem
 Опыт в разработке сайтов с нуля, Создание дизайна сайта на Figma, XD, Photoshop, верстка сайта с Bootstrap, BEM, SASS,  опыт работы с планировщиком gulp,  Создание интерактивных элементов сайта на JavaScript, JQjery, c  Ajax запросами . Создание веб приложений на React, JSX, Django или Flask.
 
 ### Образование
+
 - курсы Udey «программирование на Python»
 - курсы Udemy «создание веб приложений на Django»
 - Курсы Udemy «Web-разработчик»
@@ -47,5 +47,6 @@ https://github.com/Kishinskiy/PythonBackupSystem
 - Курсы Udemy «iOS разработчик»
 
 ### Навыки и знания
-Linux, Macos как основные операционные системы, Docker, docker-compose, Kubernetes, опыт работы с GCloud и  AWS, работал с CGloud API делал Kubernetes приложение на Python Java  и Golang. Дизайн сайтов, Photoshop, Figma, Adobe XD. Верстка сайтов на BEM, Bootstrap, HTML, CSS, SCSS, SASS, создание интерактивных элементов сайта на JavaScript, JQuery, создание итеративных форм с Ajax запросами. Разработка веб приложений на React.Создание Backend на Django, Flask. Программирую на Python, Java.  Есть некоторый опыт работы с Postgres и Mysql.TensorFlow, Keras, Создание  нейронных сетей по распознанию текста,
+
+Linux, Macos как основные операционные системы, Docker, docker-compose, Kubernetes, опыт работы с GCloud и  AWS, работал с CGloud API делал Kubernetes приложение на Python Java  и Golang. Дизайн сайтов, Photoshop, Figma, Adobe XD. Верстка сайтов на BEM, Bootstrap, HTML, CSS, SCSS, SASS, создание интерактивных элементов сайта на JavaScript, JQuery, создание итеративных форм с Ajax запросами. Разработка веб приложений на React.Создание Backend на Django, Flask. Программирую на Python, Java.  Есть некоторый опыт работы с Postgres и Mysql,TensorFlow, Keras, Создание  нейронных сетей по распознанию текста,
 Различные библиотеки Python для Парсинга сайтов, работы с базами данных,  передачи данных по сети.
