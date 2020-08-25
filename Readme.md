@@ -10,8 +10,9 @@
 Знаю React, JSX, Gulp и WebPack.
 Примеры работ есть на Github.
 
-https://kishinskiy.github.io/webdeveloper-portfolio-HTML-Template/#https://kishinskiy.github.io/Pulse-HTML-Template/
-https://kishinskiy.github.io/UberTemplate/
+- https://kishinskiy.github.io/webdeveloper-portfolio-HTML-Template/
+- https://kishinskiy.github.io/Pulse-HTML-Template/
+- https://kishinskiy.github.io/UberTemplate/
 
 Есть опыт в программировании на Python, Java и Golang. В основном пишу на Python, различные системные утилиты, парсеры, боты для Telegram.
 
