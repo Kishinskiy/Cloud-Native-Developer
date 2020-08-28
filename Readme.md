@@ -33,6 +33,11 @@
 
 Чуть-чуть знаю Swift, Unity, UnrealEngin,есть и небольшой опыт программирования под Android.
 
+Изучаю создание нейронных сетей, работы можно посмотреть по ссылке
+
+<https://drive.google.com/drive/folders/1kKbtNInIkyNJMu4gNwu9IGb0rngb1xaN?usp=sharing>
+
+
 
 ### Опыт
 
