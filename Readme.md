@@ -8,7 +8,7 @@
 
 Я DevOps опыт работы более 3 лет  специализация автоматизация процессов управления серверами, установка и настройка сервисов(OS Linux) при помощи Ansible и Terraform, управление Ci/CD процессами, написание пайплайнов для Jenkins на Groovy, работа с API. Контейнеризация приложений в Docker, создание Kubernetes Applications, развертывание приложений в облачных серверах GCloud и Amazon.
 
-Есть опыт в дизайне, не сильно большой, но основы знаю, и активно использую, работаю с Photoshop, Figma, XD. Примеры можно посмотреть на behance https://www.behance.net/threew82ce55
+Есть опыт в дизайне, не сильно большой, но основы знаю, и активно использую, работаю с Photoshop, Figma, XD. Примеры можно посмотреть на [behance](https://www.behance.net/threew82ce55)
 
 Хорошо владею версткой сайтов, HTML, CSS, SASS, JS
 Знаю React, JSX, Gulp и WebPack.
@@ -21,7 +21,7 @@
 React:
 - https://github.com/Kishinskiy/react-navbar
 - https://github.com/Kishinskiy/react-sidebar
-  
+
 Есть опыт в программировании на Python, Java и Golang. В основном пишу на Python, различные системные утилиты, парсеры, боты для Telegram.
 
 примеры кода можно посмотреть на github:
