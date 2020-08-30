@@ -18,6 +18,10 @@
 - https://kishinskiy.github.io/Pulse-HTML-Template/
 - https://kishinskiy.github.io/UberTemplate/
 
+React:
+- https://github.com/Kishinskiy/react-navbar
+- https://github.com/Kishinskiy/react-sidebar
+  
 Есть опыт в программировании на Python, Java и Golang. В основном пишу на Python, различные системные утилиты, парсеры, боты для Telegram.
 
 примеры кода можно посмотреть на github:
