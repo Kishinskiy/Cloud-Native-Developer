@@ -17,6 +17,7 @@
 - https://kishinskiy.github.io/webdeveloper-portfolio-HTML-Template/
 - https://kishinskiy.github.io/Pulse-HTML-Template/
 - https://kishinskiy.github.io/UberTemplate/
+- https://kishinskiy.github.io/landing_ozon/
 
 React:
 - https://github.com/Kishinskiy/react-navbar
