@@ -25,7 +25,6 @@ React:
 примеры кода можно посмотреть на github:
 
 - https://github.com/Kishinskiy
-- https://github.com/Kishinskiy/Django-PasswordGenerator
 - https://github.com/Kishinskiy/Portfolio
 - https://github.com/Kishinskiy/sort_by_folder
 - https://github.com/Kishinskiy/Django-PasswordGenerator
