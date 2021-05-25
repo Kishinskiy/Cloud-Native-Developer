@@ -30,19 +30,31 @@ https://kishinskiy.github.io/simple_js_game/
 Примеры работ:
 
 Python:
+
 https://github.com/Kishinskiy/Job_Parser
+
 https://github.com/Kishinskiy/Django-PasswordGenerator
+
 https://github.c om/Kishinskiy/vk_photo_saver
+
 https://github.com/Kishinskiy/sort_by_folder
+
 https://github.com/Kishinskiy/PythonBackupSystem
 
-Rea ct:
+React:
+
 https://github.com/Kishinskiy/react-sidebar
+
 https://github.com/Kishinskiy/react-navbar
 
 HTML:
-https://github.com/Kishinskiy /OzonJournal
+
+https://github.com/Kishinskiy/OzonJournal
+
 https://kishinskiy.github.io/Pulse-HTML-Template/
+
 https://kishinskiy.github.io/UberTemplate/
+
 https://kishinskiy.git hub.io/landing_ozon/
+
 https://github.com/Kishinskiy/trafalgar-html-template
