@@ -55,6 +55,6 @@ https://kishinskiy.github.io/Pulse-HTML-Template/
 
 https://kishinskiy.github.io/UberTemplate/
 
-https://kishinskiy.git hub.io/landing_ozon/
+https://kishinskiy.github.io/landing_ozon/
 
 https://github.com/Kishinskiy/trafalgar-html-template
