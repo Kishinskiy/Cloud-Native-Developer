@@ -35,7 +35,7 @@ https://github.com/Kishinskiy/Job_Parser
 
 https://github.com/Kishinskiy/Django-PasswordGenerator
 
-https://github.c om/Kishinskiy/vk_photo_saver
+https://github.com/Kishinskiy/vk_photo_saver
 
 https://github.com/Kishinskiy/sort_by_folder
 
