@@ -1,62 +1,46 @@
-# Fullstack Developer
+Я занимаюсь разработкой Cloud Native решений на Python, у меня достаточно большой опыт работы DevOps инженером (5 лет), работаю с в основном с GoogleCloud, но так же имеется опыт с AWS и Azure. 
+Есть опыт в CI/CD на Jenkins и Gitlab-ci, docker, Kubernetes и Helm.
 
-## Кишинский Олег
+На текущем месте работы (СБЕР) занимаюсь разработкой приложения для сбора данных  для анализа кода с возможностью нативной работы приложения в Kubernetes (OpenShift), был реализован функционал по сбору url адресов проектов, а так же был написан алгоритм подсчета количества используемых языков программирования в проектах.
 
-### обо мне
+Программированием на Python занимаюсь уже года 2,
+пишу различные парсеры, сбор данных через различные API, работа с таблицами и прочими файлами (CSV, Excel, XML, Json), есть опыт работы с реляционными базами данных, Postgress и MySQL, есть опыт с SQLAlchemy.
 
-Я DevOps опыт работы более 5 лет  специализация автоматизация процессов управления серверами, установка и настройка сервисов(OS Linux) при помощи Ansible и Terraform, управление Ci/CD процессами, написание пайплайнов для Jenkins на Groovy, работа с API. Контейнеризация приложений в Docker, создание Kubernetes Applications, развертывание приложений в облачных серверах GCloud и Amazon.
+Так же есть опыт в Backend:
+    - Django
+    - DRF
+    - Flask
 
-Есть опыт в дизайне, не сильно большой, но основы знаю, и активно использую, работаю с Photoshop, Figma, XD. Примеры можно посмотреть на [behance](https://www.behance.net/threew82ce55)
+Есть опыт создания многопоточных и асинхронных приложений.
 
-Хорошо владею версткой сайтов, HTML, CSS, SASS, JS
-Знаю React, JSX, Gulp и WebPack.
-Примеры работ есть на Github.
+Есть опыт в создании десктопных приложений с графическим интерфейсом на Qt.
 
-- https://kishinskiy.github.io/Pulse-HTML-Template/
-- https://kishinskiy.github.io/UberTemplate/
-- https://kishinskiy.github.io/landing_ozon/
+Так же у меня есть опыт в верстке Html, CSS, JS.
+работаю с препроцессорами Sass, так же есть небольшой опыт в React.
 
-React:
-- https://github.com/Kishinskiy/react-navbar
-- https://github.com/Kishinskiy/react-sidebar
+Был опыт коммерческой разработки небольшой игры на JS
 
-Есть опыт в программировании на Python, Java и Golang. В основном пишу на Python, различные системные утилиты, парсеры, боты для Telegram.
+https://kishinskiy.github.io/simple_js_game/
 
-примеры кода можно посмотреть на github:
+Так же увлекаюсь изучением других языков программирования например Java, C++, Golang и Swift
+На данный момент прохожу курс по Java в Нетологии.
 
-- https://github.com/Kishinskiy
-- https://github.com/Kishinskiy/Portfolio
-- https://github.com/Kishinskiy/sort_by_folder
-- https://github.com/Kishinskiy/Django-PasswordGenerator
-- https://github.com/Kishinskiy/hh-parser
-- https://github.com/Kishinskiy/JCleaner
-- https://github.com/Kishinskiy/PythonBackupSystem
+Примеры работ:
 
-Чуть-чуть знаю Swift, Unity, UnrealEngin,есть и небольшой опыт программирования под Android.
+Python:
+https://github.com/Kishinskiy/Job_Parser
+https://github.com/Kishinskiy/Django-PasswordGenerator
+https://github.c om/Kishinskiy/vk_photo_saver
+https://github.com/Kishinskiy/sort_by_folder
+https://github.com/Kishinskiy/PythonBackupSystem
 
-Изучаю создание нейронных сетей, работы можно посмотреть по ссылке
+Rea ct:
+https://github.com/Kishinskiy/react-sidebar
+https://github.com/Kishinskiy/react-navbar
 
-<https://drive.google.com/drive/folders/1kKbtNInIkyNJMu4gNwu9IGb0rngb1xaN?usp=sharing>
-
-
-
-### Опыт
-
-Системный инженер Новые облачные технологии 01.2020.  - до настоящего времени.
-Стандартный DevOps разработчик, автоматизация процессов средствами Ansible и Python Script, контейнеризация приложений и настройка сборочных сред Jenkins в Docker. Написание различных Pipelines на Groovy для Jenkins. Предложил вариант управления задачами Jenkins через API, был написан скрипт на Python для сбора Job и Node конфигураций.
-
-Опыт в разработке сайтов с нуля, Создание дизайна сайта на Figma, XD, Photoshop, верстка сайта с Bootstrap, BEM, SASS,  опыт работы с планировщиком gulp,  Создание интерактивных элементов сайта на JavaScript, JQjery, c  Ajax запросами . Создание веб приложений на React, JSX, Django или Flask.
-
-### Образование
-
-- курсы Udemy «программирование на Python»
-- курсы Udemy «создание веб приложений на Django»
-- Курсы Udemy «Web-разработчик»
-- Курсы Udemy «Разработка приложений на Java»
-- Курсы Udemy «Front-end разработчик на React»
-- Курсы Udemy «iOS разработчик»
-
-### Навыки и знания
-
-Linux, Macos как основные операционные системы, Docker, docker-compose, Kubernetes, опыт работы с GCloud и  AWS, работал с CGloud API делал Kubernetes приложение на Python Java  и Golang. Дизайн сайтов, Photoshop, Figma, Adobe XD. Верстка сайтов на BEM, Bootstrap, HTML, CSS, SCSS, SASS, создание интерактивных элементов сайта на JavaScript, JQuery, создание итеративных форм с Ajax запросами. Разработка веб приложений на React.Создание Backend на Django, Flask. Программирую на Python, Java.  Есть некоторый опыт работы с Postgres и Mysql,TensorFlow, Keras, Создание  нейронных сетей по распознанию текста,
-Различные библиотеки Python для Парсинга сайтов, работы с базами данных,  передачи данных по сети.
+HTML:
+https://github.com/Kishinskiy /OzonJournal
+https://kishinskiy.github.io/Pulse-HTML-Template/
+https://kishinskiy.github.io/UberTemplate/
+https://kishinskiy.git hub.io/landing_ozon/
+https://github.com/Kishinskiy/trafalgar-html-template
