@@ -33,7 +33,7 @@ https://kishinskiy.github.io/simple_js_game/
 Примеры работ:
 
 
-**Python:
+**Python:**
 
 https://github.com/Kishinskiy/Job_Parser
 
@@ -46,14 +46,14 @@ https://github.com/Kishinskiy/sort_by_folder
 https://github.com/Kishinskiy/PythonBackupSystem
 
 
-**React:
+**React:**
 
 https://github.com/Kishinskiy/react-sidebar
 
 https://github.com/Kishinskiy/react-navbar
 
 
-**HTML:
+**HTML:**
 
 https://github.com/Kishinskiy/OzonJournal
 
