@@ -45,6 +45,12 @@ https://github.com/Kishinskiy/sort_by_folder
 
 https://github.com/Kishinskiy/PythonBackupSystem
 
+https://github.com/Kishinskiy/Cars_Shop_Exapmle_API
+
+https://github.com/Kishinskiy/CRUD-Example
+
+https://github.com/Kishinskiy/flask-image-demo
+
 
 **React:**
 
