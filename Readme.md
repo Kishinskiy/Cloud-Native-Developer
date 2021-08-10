@@ -51,6 +51,10 @@ https://github.com/Kishinskiy/CRUD-Example
 
 https://github.com/Kishinskiy/flask-image-demo
 
+https://github.com/Kishinskiy/aiohtto_example
+
+https://github.com/Kishinskiy/python-async-example
+
 
 **React:**
 
