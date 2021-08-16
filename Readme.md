@@ -31,6 +31,9 @@ https://kishinskiy.github.io/simple_js_game/
 
 Так же увлекаюсь изучением других языков программирования например Java, C++, Golang и Swift.
 
+Немного увлекаюсь дизайном, работаю как с Figma так и с Photoshot
+Есть примеры работы на Behance https://www.behance.net/threew82ce55
+
 Примеры работ:
 
 
