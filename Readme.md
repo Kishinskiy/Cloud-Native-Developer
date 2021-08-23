@@ -48,6 +48,8 @@ https://github.com/Kishinskiy/Docker-Ansible
 
 https://github.com/Kishinskiy/Portfolio
 
+https://github.com/Kishinskiy/Vagrant-redis-cluster
+
 
 **Python:**
 
