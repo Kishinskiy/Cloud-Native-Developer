@@ -36,6 +36,18 @@ https://kishinskiy.github.io/simple_js_game/
 
 Примеры работ:
 
+**DevOps**
+
+https://github.com/Kishinskiy/flask-image-demo
+
+https://github.com/Kishinskiy/terraform-aws-es2-withdocker
+
+https://github.com/Kishinskiy/Python-Docker-Image
+
+https://github.com/Kishinskiy/Docker-Ansible
+
+https://github.com/Kishinskiy/Portfolio
+
 
 **Python:**
 
