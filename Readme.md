@@ -1,5 +1,5 @@
 Я DevOps инженер, опыт работы более 5 лет,
-занимаюсь разработкой Cloud Native приложений на Python, работаю с облачными платформами  GoogleCloud, AWS, Azure, YandexCloud, MailCloud. Есть большой опыт роботы  в администрировании и написании CI/CD пайплайнов для Jenkins и Gitlab-ci,  контейнеризации приложений в docker,  и написании deployment манифестов  для Kubernetes, а так же есть опыт в создании  Helm  чартов.
+занимаюсь разработкой Cloud Native приложений на Python, работаю с облачными платформами  GoogleCloud, AWS, Azure, YandexCloud, MailCloud. Есть большой опыт работы  в администрировании и написании CI/CD пайплайнов для Jenkins и Gitlab-ci,  контейнеризации приложений в docker,  и написании deployment манифестов  для Kubernetes, а так же есть опыт в создании  Helm  чартов.
 
 Работаю с Terraform, Vagrant, Ansible, Docker и Kubernetes.
 
