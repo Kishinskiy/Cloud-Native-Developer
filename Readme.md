@@ -67,7 +67,7 @@ https://kishinskiy.github.io/simple_js_game/
 
 В данный момент изучаю Java, а так же интересуюсь другими языками программирования, такми как C++, Golang, Rust и Swift.
 
-Немного увлекаюсь дизайном, работаю как с Figma так и с Photoshop есть примеры работы на Behance https://www.behance.net/threew82ce55
+Немного увлекаюсь дизайном и 3D моделированием, работа с Blender3D, Figma, Photoshop есть примеры работы на Behance https://www.behance.net/threew82ce55
 
 
 Примеры работ:
