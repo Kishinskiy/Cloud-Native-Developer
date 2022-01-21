@@ -119,12 +119,10 @@ https://github.com/Kishinskiy/react-navbar
 
 **HTML:**
 
-https://github.com/Kishinskiy/OzonJournal
+https://kishinskiy.github.io/OzonJournal/
 
 https://kishinskiy.github.io/Pulse-HTML-Template/
 
-https://kishinskiy.github.io/UberTemplate/
+https://kishinskiy.github.io/Uber-HTML5-Template/
 
-https://kishinskiy.github.io/landing_ozon/
-
-https://github.com/Kishinskiy/trafalgar-html-template
+https://kishinskiy.github.io/trafalgar-html-template/
