@@ -33,7 +33,7 @@ https://hub.docker.com/u/kishinskiy
 
 •	сбор данных через различные API(как c использованием запросов через библиотеку requests, так и используя спецализированные api модули такие как Jenkins-api, Atlassian-api, vk-api, Kubernetes-api, github-api и пр.),
 
-•	работа с таблицами и прочими файлами (CSV, Excel, XML, Json),
+•	парсинг файлов (CSV, Excel, XML, Json),
 
 есть опыт работы с реляционными базами данных, Postgress и MySQL, знаю SQL и ORM, есть опыт работы с библиотекой SQLAlchemy.
 
